@@ -9,3 +9,4 @@ def disparity_ncorr(L, R):
     """
 
     # TODO: Your code here
+    return '1'
